@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/Simple Banking System/task/build/
+/Simple Banking System/task/out/
+/Simple Banking System/task/out/production/classes/
+/Simple Banking System/task/out/test/classes/
+/Topics/Iterating over arrays/The minimum value of an array/out/
+/Topics/Iterating over arrays/The minimum value of an array/out/production/classes/
